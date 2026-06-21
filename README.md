@@ -46,8 +46,5 @@ Includes:
 
 ---
 
-## ✔ Submission Notes
-All tasks were completed within the required timeframe.  
-Explanations are included for every task as requested.
 
 Thank you for reviewing my work.
