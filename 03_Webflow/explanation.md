@@ -1,0 +1,7 @@
+# Question 1: What did you build and how does it work?
+
+I built a fully CMS‑driven Treatments section designed specifically for a medical aesthetics brand, with the goal of giving the marketing team complete control over content updates. It uses Treatments CMS Collection that stores each treatment’s name, category, image, short description, and full detail content. The main listing page automatically generates treatment cards from the CMS, and each card links to a dynamic template page that displays the correct treatment information without any manual design work. This will help marketers to update or add treatments directly through the CMS, ensuring consistency no need to touch the Designer. The structure is intentionally scalable, so the brand can expand its treatment offerings with minimal effort.
+
+# Question 2: What was the most challenging part and how did you solve it?
+
+The main challenge I encountered was that the treatment cards were displaying inconsistent heights because the uploaded images had different size and dimentions. This created a visually uneven layout, which I knew could be distracting for user. I solved this by standardizing all images to WebP format, ensuring uniform sizing, faster loading, and a perfectly aligned grid that stays consistent no matter how many new treatments are added.
