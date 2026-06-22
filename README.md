@@ -18,11 +18,6 @@ Includes:
 ## 📌 02 — Troubleshooting Scenarios
 File: `/02_Troubleshooting/troubleshooting-scenarios.md`
 
-Includes step-by-step diagnosis and resolution for:
-- Contact form not working
-- Website slow
-- Mobile menu broken (Webflow)
-
 ---
 
 ## 📌 03 — Webflow Task
@@ -30,8 +25,7 @@ Folder: `/03_Webflow/`
 
 Includes:
 - Published Webflow link
-- Read-only Designer link
-- Explanation of CMS setup, dynamic pages, and structure
+- Explanation
 
 ---
 
@@ -41,9 +35,8 @@ Folder: `/04_WordPress/`
 Includes:
 - Staging URL
 - Page password
-- PHP code for WP_Query + ACF
-- Explanation of template logic and setup
-
+- PHP code
+- Explanation
 ---
 
 
